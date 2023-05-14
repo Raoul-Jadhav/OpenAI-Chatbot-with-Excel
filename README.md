@@ -13,9 +13,9 @@ Langchain Excel Agent is an intelligent assistant that helps users interact with
 
 ## Code
  * First create new environment and install all the required packages and libraries.
- * Read csv file using pamdas library.
- * Create a csv reader agent from langchain.agents library.
- * Create a function/method named chatbot to pass user input/query.
+ * Read csv file using pandas library.
+ * Implement a csv reader agent from langchain.agents library.
+ * Implement a function/method named chatbot to pass user input/query.
  * Pass user query to csv_agent to process.
  * Implement gradio for interacting with chatbot.
  <img src="Output_03.PNG" alt="">
