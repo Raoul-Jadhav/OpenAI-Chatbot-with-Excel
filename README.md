@@ -9,3 +9,4 @@
 
 ## Langchain Excel Agent
 Langchain Excel Agent is an intelligent assistant that helps users interact with Microsoft Excel through natural language commands. It uses cutting-edge artificial intelligence technologies to interpret user input and generate corresponding Excel commands, enabling users to perform various tasks such as data analysis, visualization, and manipulation more efficiently and easily. Langchain Excel Agent has the potential to significantly increase productivity and streamline workflows for Excel users, particularly those who are not experts in Excel functions and formulas.
+<img src="LangChainExcelAgent.PNG" alt="">
